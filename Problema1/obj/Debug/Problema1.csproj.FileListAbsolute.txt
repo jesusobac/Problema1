@@ -1,0 +1,6 @@
+C:\BNN(DESARROLLADOR.NET)\Problema1\Problema1\bin\Debug\Problema1.exe.config
+C:\BNN(DESARROLLADOR.NET)\Problema1\Problema1\obj\Debug\Problema1.csprojResolveAssemblyReference.cache
+C:\BNN(DESARROLLADOR.NET)\Problema1\Problema1\bin\Debug\Problema1.exe
+C:\BNN(DESARROLLADOR.NET)\Problema1\Problema1\bin\Debug\Problema1.pdb
+C:\BNN(DESARROLLADOR.NET)\Problema1\Problema1\obj\Debug\Problema1.exe
+C:\BNN(DESARROLLADOR.NET)\Problema1\Problema1\obj\Debug\Problema1.pdb
