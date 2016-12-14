@@ -11,11 +11,11 @@ namespace Problema1
     {
         static void Main(string[] args)
         {
-            //string directorio = @"C:\BNN(DESARROLLADOR.NET)\Problema1\Polindromo.txt";
+            string directorio = @"C:\Diccionario\Polindromo.txt";
             //Console.WriteLine(string.Format("Procesando archivo {0}", directorio));
-
-            var path = Path.Combine(Directory.GetCurrentDirectory(), "Polindromo.txt");
-            string directorio = path;
+            //C:\Proyectos\Problema1\Problema1\Polindromo.txt
+            //var path = Path.Combine(Directory.GetCurrentDirectory(), "Polindromo\\Polindromo.txt");
+            //string directorio = path;
             Console.WriteLine(string.Format("Procesando archivo {0}", directorio));
 
             if (File.Exists(directorio))
