@@ -12,10 +12,6 @@ namespace Problema1
         static void Main(string[] args)
         {
             string directorio = @"C:\Diccionario\Polindromo.txt";
-            //Console.WriteLine(string.Format("Procesando archivo {0}", directorio));
-            //C:\Proyectos\Problema1\Problema1\Polindromo.txt
-            //var path = Path.Combine(Directory.GetCurrentDirectory(), "Polindromo\\Polindromo.txt");
-            //string directorio = path;
             Console.WriteLine(string.Format("Procesando archivo {0}", directorio));
 
             if (File.Exists(directorio))
